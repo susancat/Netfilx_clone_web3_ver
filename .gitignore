@@ -1,5 +1,5 @@
 /node_modules
-
+/Upload/node_modules
 .env
 .env.local
 # in case you mis-upload something ,use the following commands:
